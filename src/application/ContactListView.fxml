@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="663.0" prefWidth="883.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.ContactListController">
+   <children>
+      <ListView fx:id="list" layoutX="12.0" layoutY="10.0" prefHeight="575.0" prefWidth="858.0" AnchorPane.bottomAnchor="78.0" AnchorPane.leftAnchor="12.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="10.0" />
+      <Button fx:id="submitSelectedItems" layoutX="713.0" layoutY="608.0" mnemonicParsing="false" onAction="#submitSelectedItemsAction" text="Submit Selelcted Items" translateX="-15.0" />
+      <Button fx:id="submitAll" layoutX="582.0" layoutY="608.0" mnemonicParsing="false" onAction="#submitAllAction" text="Submit All" />
+      <Button fx:id="addContact" layoutX="12.0" layoutY="608.0" mnemonicParsing="false" onAction="#addContactAction" prefHeight="31.0" prefWidth="206.0" text="Add Contact" />
+   </children>
+</AnchorPane>
