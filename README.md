@@ -1,8 +1,8 @@
 # Mail Merge Organizer
   Course Project: ICS 201/191 - Introduction to Computing II
 
-## About the project
-   Design a Mail-Merge application using Java and JavaFx.
+## Description
+   Design a Mail-Merge application using Java and JavaFx. For more details, see *ICS 201 Lab Project.pdf*.
   
 ## Screenshots of the application
 ![](images/1.PNG)
