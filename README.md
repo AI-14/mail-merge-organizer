@@ -20,3 +20,6 @@
    - Add the jar files (lib\) (The procedure of adding jar files depend on which IDE or text editor you are using). 
 2. Usage
    - Run ````MainWindow.java```` (src\application\MainWindow.java).
+
+## Project Contributor
+   - AbdulJawad Mohammed
