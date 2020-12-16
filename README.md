@@ -21,5 +21,5 @@
 2. Usage
    - Run ````MainWindow.java```` (src\application\MainWindow.java).
 
-## Project Contributor
+## Project Partner/Contributor
    - AbdulJawad Mohammed
