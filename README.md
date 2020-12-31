@@ -22,4 +22,4 @@
    - Run ````MainWindow.java```` (src\application\MainWindow.java).
 
 ## Project Partner/Contributor
-   - AbdulJawad Mohammed
+   - [AbdulJawad Mohammed](https://github.com/abbaddon1001)
