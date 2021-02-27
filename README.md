@@ -9,7 +9,7 @@
   
 ## Screenshots Of The Application
 <details>
-  <sumaary>Click to expand!</summary>
+  <summary>Click to expand!</summary>
 
 ![](images/1.PNG)
 ![](images/2.PNG)
