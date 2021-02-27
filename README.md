@@ -8,10 +8,15 @@
    Design a Mail-Merge application using Java and JavaFx. For more details, see *ICS 201 Lab Project.pdf*.
   
 ## Screenshots Of The Application
+<details>
+  <sumaary>Click to expand!</summary>
+
 ![](images/1.PNG)
 ![](images/2.PNG)
 ![](images/3.PNG)
 ![](images/4.PNG)
+</details>
+
 
 ## Installation And Usage
 1. Installation
