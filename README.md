@@ -10,7 +10,8 @@
 ## Screenshots Of The Application
 <details>
   <summary>Click to expand!</summary>
-
+  <br/>
+  
 ![](images/1.PNG)
 ![](images/2.PNG)
 ![](images/3.PNG)
@@ -19,12 +20,17 @@
 
 
 ## Installation And Usage
+<details>
+  <summary>Click to expand!</summary>
+  <br/>
+  
 1. Installation
    - Make sure you have Javafx and Java 8 installed on your machine.
    - Download/clone this repository.
    - Add the jar files (lib\) (The procedure of adding jar files depend on which IDE or text editor you are using). 
 2. Usage
    - Run ````MainWindow.java```` (src\application\MainWindow.java).
+</details>
 
 ## Project Partner/Contributor
    - [AbdulJawad Mohammed](https://github.com/abbaddon1001)
