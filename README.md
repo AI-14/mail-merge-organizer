@@ -28,4 +28,4 @@
 - Add the jar files under `lib` folder
 
 ## Team Member <a name="team-member"></a>
-   - [AbdulJawad Mohammed](https://github.com/abbaddon1001)
+- [AbdulJawad Mohammed](https://github.com/abbaddon1001)
