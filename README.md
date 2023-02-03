@@ -4,33 +4,28 @@
   
   Course Project: ICS 201/191 - Introduction to Computing II
 
-## Description
-   Design a Mail-Merge application using Java and JavaFx. For more details, see *ICS 201 Lab Project.pdf*.
+# Table of contents
+1. [Description](#description)
+2. [Screenshots](#screenshots)
+3. [Installation and Usage](#installation-usage)
+4. [Team Member](#team-member)
+
+## Description <a name="description"></a>
+   It is a desktop GUI application. For more details, see *ICS 201 Lab Project.pdf*.
   
-## Screenshots Of The Application
-<details>
-  <summary>Click to expand!</summary>
-  <br/>
-  
+## Screenshots <a name="screenshots"></a>
 ![](images/1.PNG)
 ![](images/2.PNG)
 ![](images/3.PNG)
 ![](images/4.PNG)
-</details>
 
+## Installation and Usage <a name="installation-usage"></a>
+- Requirements:
+  - `java >= 1.8`
+  - `javafx`
+- `git clone https://github.com/AI-14/mail-merge-organizer.git` - clones the repository
+- `cd mail-merge-organizer`
+- Add the jar files (lib\)
 
-## Installation And Usage
-<details>
-  <summary>Click to expand!</summary>
-  <br/>
-  
-1. Installation
-   - Make sure you have Javafx and Java 8 installed on your machine.
-   - Download/clone this repository.
-   - Add the jar files (lib\) (The procedure of adding jar files depend on which IDE or text editor you are using). 
-2. Usage
-   - Run ````MainWindow.java```` (src\application\MainWindow.java).
-</details>
-
-## Project Partner/Contributor
+## Team Member <a name="team-member"></a>
    - [AbdulJawad Mohammed](https://github.com/abbaddon1001)
