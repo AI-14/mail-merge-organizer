@@ -25,7 +25,7 @@
   - `javafx`
 - `git clone https://github.com/AI-14/mail-merge-organizer.git` - clones the repository
 - `cd mail-merge-organizer`
-- Add the jar files (lib\)
+- Add the jar files under `lib` folder
 
 ## Team Member <a name="team-member"></a>
    - [AbdulJawad Mohammed](https://github.com/abbaddon1001)
