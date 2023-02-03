@@ -11,7 +11,7 @@ Course Project: ICS 201/191 - Introduction to Computing II
 4. [Team Member](#team-member)
 
 ## Description <a name="description"></a>
-   It is a desktop GUI application. For more details, see *ICS 201 Lab Project.pdf*.
+It is a desktop GUI application. For more details, see *ICS 201 Lab Project.pdf*.
   
 ## Screenshots <a name="screenshots"></a>
 ![](images/1.PNG)
