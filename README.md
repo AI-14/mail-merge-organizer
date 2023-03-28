@@ -4,7 +4,7 @@
   
 Course Project: ICS 201/191 - Introduction to Computing II
 
-# Table of contents
+## Table of contents
 1. [Description](#description)
 2. [Screenshots](#screenshots)
 3. [Installation and Usage](#installation-usage)
