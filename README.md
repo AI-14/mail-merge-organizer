@@ -24,6 +24,7 @@ It is a desktop GUI application. For more details, see *ICS 201 Lab Project.pdf*
 - `git clone https://github.com/AI-14/mail-merge-organizer.git` - clones the repository
 - `cd mail-merge-organizer`
 - Add the jar files under `lib` folder
+- Run `src\application\MainWindow.java`
 
 ## Team Member <a name="team-member"></a>
 - [AbdulJawad Mohammed](https://github.com/abbaddon1001)
