@@ -1,7 +1,5 @@
 # Mail Merge Organizer
-![Java](https://img.shields.io/badge/Java-5181b8?style=flat&logo=java&logoColor=white)
-![Javafx](https://img.shields.io/badge/-Javafx-orange?style=flat)
-  
+
 Course Project: ICS 201/191 - Introduction to Computing II
 
 ## Table of contents
